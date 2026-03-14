@@ -1,0 +1,16 @@
+name: Pub/Sub
+description: A messaging pattern where publishers send messages to topics without
+  knowledge of subscribers, and subscribers receive messages from topics they're interested
+  in, enabling asynchronous and decoupled communication between services. Modern distributed
+  architectures rely on it to coordinate workloads across multiple nodes and regions.
+url: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
+tags:
+- Messaging
+- Architecture
+- Distributed Systems
+- Asynchronous
+- Pub Sub
+created: '2025'
+modified: '2025'
+apis: []
+common: []
