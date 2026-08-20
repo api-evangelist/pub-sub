@@ -20,6 +20,12 @@ tags:
   - Asynchronous
   - Distributed Systems
   - Messaging
+  - Pub-Sub
+tags_raw:
+  - Architecture
+  - Asynchronous
+  - Distributed Systems
+  - Messaging
   - Pub Sub
 created: '2025-01-01'
 modified: '2026-04-28'
